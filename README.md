@@ -1,6 +1,9 @@
-# Phone-Notifications-for-Just-Natsuki-PC
+# Phone Notifications for Just Natsuki
 
 Fan made notification submod for [Just Natsuki](https://github.com/Just-Natsuki-Team/NatsukiModDev), built in Ren'Py 6.99 to give Natsuki the ability to message her player on almost any device. Now she can tell you she wants to talk when you are up and away!
+
+>[!NOTE]
+>This is not for a mobile port of JN. This submod lets Natsuki send notifications from your PC to any device.
 
 Not to be confused with the other undead JN submodder
 
