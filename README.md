@@ -42,5 +42,5 @@ Absolutely. I have attempted to make it as easy as possible for others to use my
 
 ## Special thanks to:
 
-- Wowm, Vence, and Overthere for helping test the pre-release
+- Wowm, Vence, Overthere and natsukiskittycupcakes for helping test the pre-release
 - Zhaumbie, who offered his time and assistance to teach me the ropes, and helped fix *many* issues (This project would literally not exist without him)
