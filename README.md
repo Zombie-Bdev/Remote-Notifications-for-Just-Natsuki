@@ -1,6 +1,6 @@
-# Global Notifications for Just Natsuki
+# Remote Notifications for Just Natsuki
 
-Fan made notification submod for [Just Natsuki](https://github.com/Just-Natsuki-Team/NatsukiModDev), built in Ren'Py 6.99 to give Natsuki the ability to message her player on almost any device. Now she can tell you she wants to talk when you are up and away!
+Fan-made notification submod for [Just Natsuki](https://github.com/Just-Natsuki-Team/NatsukiModDev), built in Ren'Py 6.99 to give Natsuki the ability to message her player on almost any device. Now she can tell you she wants to talk, even while you're up and away!
 
 Not to be confused with the other undead JN submodder
 
@@ -10,7 +10,7 @@ Not to be confused with the other undead JN submodder
 
 ## How does it work?
 
-This submod works by using the [ntfy.sh](https://ntfy.sh) app. It's a free, no sign in required, open-source app that allows for notifications to be sent to a topic that a user is "subscribed" to.
+This submod works by using the [ntfy.sh](https://ntfy.sh) app. It's a free, no sign-in required, open-source app that allows notifications to be sent to a topic that a user is "subscribed" to.
 
 Want Natsuki to message you on your Android, iPhone, or other mobile device? _**Easy.**_ Laptop? _**Sure.**_ Samsung Smart Fridge? (_Why_) 
 
@@ -34,18 +34,18 @@ See my video tutorial [here](https://youtu.be/e2pQ_LrVf1w) on how to install / u
 Simply go to the new setup topic added in **Media / Natsuki**. Don't worry, she will guide you through how to get it working!
 
 > [!NOTE]
-> This submod is mainly intended for sending notifications to your mobile device. If you want to set up notifications on a device that doesn't have the Ntfy app, go to their [website](https://ntfy.sh/app) instead.
+> This submod is mainly intended for sending notifications to your mobile device. If you want to set up notifications on a device that doesn't have the ntfy app, go to their [website](https://ntfy.sh/app) instead.
 
 ---
 
 ## Can I use your notification system for my submod?
 
-Absolutely. I have attempted to make it as easy as possible for others to use my notifications for their own topics and submods. Feel free to poke around; I have left comments documenting how my code works.
+Absolutely. I have attempted to make it as easy as possible for others to use my notifications for their own topics and submods. Feel free to poke around; I've left comments documenting how my code works.
 
 ---
 
 ## Special thanks to:
 
-- Vence, Overthere and natsukiskittycupcakes for helping test the pre-release
+- Vence, Overthere, and natsukiskittycupcakes for helping test the pre-release
 - Wowm, for testing and helping with dialogue
-- Zhaumbie, who offered his time and assistance to teach me the ropes, and helped fix *many* issues (This project would literally not exist without him)
+- Zhaumbie, who offered his time and assistance to teach me the ropes, and helped fix *many* issues (this project would literally not exist without him)
