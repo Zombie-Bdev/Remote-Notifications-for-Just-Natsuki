@@ -160,7 +160,7 @@ init 10 python:
             HAPPY_NOTIFY_MESSAGES = [
                 "[player]! Did you have a sec? [happy_emote]",
                 "[player]? Can I borrow you?",
-                "Are you at your PC right now? [confused_emote]"
+                "Are you at your PC right now? [confused_emote]",
                 "Hey! Come here a sec?",
                 "Hey! I wanna talk!",
                 "You there, [player]?"
